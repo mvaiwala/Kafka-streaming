@@ -7,8 +7,8 @@ import mysql.connector
 
 TOPIC='toll'
 DATABASE = 'tolldata'
-USERNAME = 'root'
-PASSWORD = 'rootmadhav@8498'
+USERNAME = ''
+PASSWORD = ''
 
 print("Connecting to the database")
 try:
